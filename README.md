@@ -9,4 +9,6 @@ Build consistency (daily commits)
 
 Strengthen my fundamentals
 
+record my journey
+
 Track my progress publicly on GitHub
